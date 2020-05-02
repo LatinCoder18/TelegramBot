@@ -1,0 +1,19 @@
+{
+  "name": "bot_recargas",
+  "version": "1.0.0",
+  "description": "\"Bot de Recargas\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "recargas"
+  ],
+  "author": "Adonys Valdés Arencibia",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
